@@ -13,8 +13,9 @@
     ```
   * Replace `Path/to/python-logo.svg` with the actual image path or URL.
 
-**Experience** (Optional: Add this section if you have relevant experience)  * Briefly describe your work experience or projects.
-* You can link to repositories or external sites for more details.
+**Experience** (Optional: Add this section if you have relevant experience) 
+  * Briefly describe your work experience or projects.
+  * You can link to repositories or external sites for more details.
 
 **Projects**  * List your projects with short descriptions and links to the repositories.
   * You can use bullet points or a table format.
